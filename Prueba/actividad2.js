@@ -40,4 +40,4 @@ console.log("Genial , te voy conociendo mejor , ahora se que tu naciste el",miFe
 console.log( `creo que es ${miColorFavorito} , le atine`)// la manera de mezclar textos fijos con 
 // el valor actual de las variables se les conoce como interpretacion y deben iniciar  y finalizar con un backing `` o tilde inversa
 console.log("mi  color favorito es ", typeof(miColorFavorito))
-console.log("mi fecha de nacimiento es ", typeof(miFechaNacimiento))d
+console.log("mi fecha de nacimiento es ", typeof(miFechaNacimiento))
